@@ -61,15 +61,13 @@
   "ads": []
 },
 {
-  "key": "玩偶",
-  "name": "玩偶哥哥┃4K弹幕",
+  "key": "wogg",
+  "name": "玩偶哥哥",
   "type": 3,
   "api": "csp_WoGG",
   "searchable": 1,
   "quickSearch": 1,
+  "filterable": 1,
   "changeable": 0,
-  "ext": {
-    "from": "4k|auto",
-    "siteUrl": "https://www.wogg.net/",
-    "danMu": "弹"
-  }
+  "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+}
