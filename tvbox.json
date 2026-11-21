@@ -59,4 +59,17 @@
   "parses": [],
   "lives": [],
   "ads": []
-}
+},
+{
+  "key": "玩偶",
+  "name": "玩偶哥哥┃4K弹幕",
+  "type": 3,
+  "api": "csp_WoGG",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+    "from": "4k|auto",
+    "siteUrl": "https://www.wogg.net/",
+    "danMu": "弹"
+  }
